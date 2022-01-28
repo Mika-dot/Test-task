@@ -1,7 +1,10 @@
 # Test-task-2
 The task of the presented table.
 
-Exercise 1
+- [ ] Exercise 1
+- [ ] Exercise 2
+---
+## Exercise 1
 
 Lay out blocks according to the layout. Link to layout. In the title of the page (tag title) specify the name, group and date.
 Criteria:
@@ -16,9 +19,9 @@ Criteria:
 + When changing the screen width in the range of 425px-2560px, the content does not spread and scrollbars do not appear.
 + At least one media query has been created.
 + Used friendly class names in CSS.
+---
 
-
-Exercise 2
+## Exercise 2
 
 Using the Bootstrap library, create a page with a form. The page should contain header and main. The header contains the full name, group and date. V
 the main part (main) created the form.
