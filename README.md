@@ -1,8 +1,8 @@
 # Test-task-2
 The task of the presented table.
 
-- [ ] Exercise 1
-- [ ] Exercise 2
+- [X] Exercise 1
+- [X] Exercise 2
 ---
 ## Exercise 1
 
@@ -12,9 +12,9 @@ Criteria:
 + ~~Neat work structure: folders, file names.~~
 + ~~HTML and CSS are valid.~~
 + ~~The correct structure of the document: the headings are used correctly, the correct nesting of tags.~~
-+ Used semantic html5 tags.
++ ~~Used semantic html5 tags.~~
 + ~~The correct image formats have been selected.~~
-+ Block model and document flow are used correctly.
++ ~~Block model and document flow are used correctly.~~
 + ~~The appearance of links and / or buttons changes when hovering with the cursor.~~
 + ~~When changing the screen width in the range of 425px-2560px, the content does not spread and scrollbars do not appear.~~
 + ~~At least one media query has been created.~~
@@ -40,6 +40,6 @@ Criteria:
 + ~~Added placeholders with data entry samples where possible and where required.~~
 + ~~All fields have associated labels.~~
 + ~~The form is centered on the page and is responsive: it takes from 25% to 100% of the container width depending on the screen width.~~
-+ Correctly used classes from the Bootstrap library to use the grid and style the form.
++ ~~Correctly used classes from the Bootstrap library to use the grid and style the form.~~
 + ~~Adequately leave the data from the form in the POST request.~~
 + T~~he body of the request contains readable and understandable data from the form.~~
