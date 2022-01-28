@@ -19,7 +19,6 @@ Criteria:
 + When changing the screen width in the range of 425px-2560px, the content does not spread and scrollbars do not appear.
 + At least one media query has been created.
 + Used friendly class names in CSS.
----
 
 ## Exercise 2
 
