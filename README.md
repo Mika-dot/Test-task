@@ -1,8 +1,8 @@
 # Test-task-2
 The task of the presented table.
 
-- [X] Exercise 1
-- [X] Exercise 2
+- [X] Exercise 1 - http://mika-dot.std-1786.ist.mospolytech.ru/exam/Exercise%201/
+- [X] Exercise 2 - http://mika-dot.std-1786.ist.mospolytech.ru/exam/Exercise%202/index/
 ---
 ## Exercise 1
 
