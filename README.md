@@ -8,17 +8,17 @@ The task of the presented table.
 
 Lay out blocks according to the layout. Link to layout. In the title of the page (tag title) specify the name, group and date.
 Criteria:
-+ External similarity with the layout.
-+ Neat work structure: folders, file names.
-+ HTML and CSS are valid.
-+ The correct structure of the document: the headings are used correctly, the correct nesting of tags.
++ ~~External similarity with the layout.~~
++ ~~Neat work structure: folders, file names.~~
++ ~~HTML and CSS are valid.~~
++ ~~The correct structure of the document: the headings are used correctly, the correct nesting of tags.~~
 + Used semantic html5 tags.
-+ The correct image formats have been selected.
++ ~~The correct image formats have been selected.~~
 + Block model and document flow are used correctly.
-+ The appearance of links and / or buttons changes when hovering with the cursor.
-+ When changing the screen width in the range of 425px-2560px, the content does not spread and scrollbars do not appear.
-+ At least one media query has been created.
-+ Used friendly class names in CSS.
++ ~~The appearance of links and / or buttons changes when hovering with the cursor.~~
++ ~~When changing the screen width in the range of 425px-2560px, the content does not spread and scrollbars do not appear.~~
++ ~~At least one media query has been created.~~
++ ~~Used friendly class names in CSS.~~
 
 ## Exercise 2
 
