@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Perestoronin Akim Maksimovich, 201-324, 01/28/2022</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/checkout/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="form-validation.css" rel="stylesheet">
+  </head>
+  <body class="bg-light">
+    
+<div class="container">
+  <main>
+    <div class="py-5 text-center">
+      <img class="d-block mx-auto mb-4" src="img/hotel_icon_near_transit_stop.svg" alt="" width="72" height="57">
+      <h2>РЖД</h2>
+      <p class="lead">Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции требуют определения и уточнения систем массового участия. Разнообразный и богатый опыт начало повседневной работы по формированию позиции позволяет выполнять важные задания по разработке системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что новая модель организационной деятельности играет важную роль в формировании модели развития. Товарищи! реализация намеченных плановых заданий требуют от нас анализа систем массового участия. Идейные соображения высшего порядка, а также постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки соответствующий условий активизации. Таким образом постоянное информационно-пропагандистское обеспечение нашей деятельности требуют от нас анализа направлений прогрессивного развития.</p>
+    </div>
+
+    <div class="row g-5">
+      <div class="col-md-5 col-lg-4 order-md-last">
+        <h4 class="d-flex justify-content-between align-items-center mb-3">
+          <span class="text-primary">Сводка информации</span>
+          <span class="badge bg-primary rounded-pill">3</span>
+        </h4>
+        <p class="lead">Хотя традиционно слово «поезд» и связывают с железнодорожным транспортом, появилось оно значительно раньше первых паровозов (1804 год). </p>
+        <p class="lead">В дальнейшем с развитием железнодорожного транспорта слово «поезд» стало применяться и к нему. В том же словаре Даля можно встретить и такое определение: «Поезд железной дороги — сколько везет паровоз, или что сцеплено вместе, в одно целое.»</p>
+        <p class="lead">По мере сокращения использования гужевого транспорта слово «поезд» постепенно утратило своё первоначальное значение («ряд повозок») и стало ассоциироваться исключительно с железной дорогой.</p>
+
+        <form class="card p-2">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Promo code">
+            <button type="submit" class="btn btn-secondary">Промо код</button>
+          </div>
+        </form>
+      </div>
+
+      <div class="col-md-7 col-lg-8">
+        <h4 class="mb-3">Купить белеты</h4>
+        <form  method="POST" action="https://httpbin.org/post" enctype="multipart/form-data" class="needs-validation" novalidate>
+
+
+          <div class="col-md-3">
+            <label for="state" class="form-label">Город</label>
+            <select class="form-select" id="state" required>
+              <option value="">Выбор...</option>
+              <option>Екатеринбург</option>
+            </select>
+            <div class="invalid-feedback">
+              Не быбран город.
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <label for="tickets" class="form-label">Кол. билетов</label>
+            <input type="text" class="form-control" id="tickets" placeholder="" required>
+            <div class="invalid-feedback">
+              Не выбрано количество
+            </div>
+          </div>
+         
+          <div class="form-group">
+            <label for="inputDate"  class="form-label">Введите дату:</label>
+            <input type="date" class="form-control" id="inputDate"  required>
+            <div class="invalid-feedback">
+              Выберети дату.
+            </div>
+          </div>
+          
+          
+          <div class="mb-3 form-check form-switch">
+            <input class="form-check-input" type="checkbox" role="switch" id="OneSide" checked>
+            <label class="form-check-label" for="OneSide">Одна сторона ?</label>
+          </div>
+
+          <hr class="my-4">
+
+          <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to checkout</button>
+        </form>
+      </div>
+    </div>
+  </main>
+
+</div>
+
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      <script src="form-validation.js"></script>
+  </body>
+</html>
