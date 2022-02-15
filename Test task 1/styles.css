@@ -1,0 +1,153 @@
+html {
+    background-color: #F1FAEE;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.items-header {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+/* .nulls {
+    width: 100px;
+} */
+
+.header {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+
+.img-header {
+    border-radius: 50%;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.img-header img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+
+.list-footer li {
+    display: inline;
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+    border-radius: 10%;
+}
+
+.list-footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.list-footer {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.list-footer:first-child {
+    padding-left: 20px;
+}
+
+/*-------------------------------------*/
+
+.sign {
+     float: left; /*Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 7px; /* Поля внутри блока */
+    margin: 10px 0 5px 5px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+   }
+
+
+   .sign figcaption {
+    margin: 0 auto 5px; /* Отступы вокруг абзаца */
+   }
+
+   /*------------------------------------*/
+
+
+.section-http {
+    padding-bottom: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.cards img {
+    width: 90%;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.card-1 {
+    width: 20%;
+    height: 200px;
+    border: 1px solid grey;
+}
+
+.card-2 {
+    width: 20%;
+    height: 200px;
+    border: 1px solid grey;
+}
+
+.card-3 {
+    width: 20%;
+    height: 200px;
+    border: 1px solid grey;
+}
+
+.card-4 {
+    width: 20%;
+    height: 200px;
+    border: 1px solid grey;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts {
+    margin-bottom: 20px;
+}
+
+/*---------------------------------*/
+
+.forms {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
