@@ -8,6 +8,7 @@ The task is located in its folder "Test task 1" below is a link to view and a pi
 <p align="center">
   <img src="https://github.com/Mika-dot/Test-task/blob/main/img/2.1.PNG?raw=true" alt="Exercise 1"/>
 </p>
+
 #### Exercise 2
 <p align="center">
   <img src="https://github.com/Mika-dot/Test-task/blob/main/img/2.2.PNG?raw=true" alt="Exercise 2"/>
