@@ -3,6 +3,7 @@ The task is located in its folder "Test task 1" below is a link to view and a pi
 
 - [X] Exercise 1 - http://mika-dot.std-1786.ist.mospolytech.ru/exam/Exercise%201/
 - [X] Exercise 2 - http://mika-dot.std-1786.ist.mospolytech.ru/exam/Exercise%202/index/
+- [X] Exercise 3.1 - [http://mika-dot.std-1786.ist.mospolytech.ru/exam/Exercise%202/index/](https://github.com/Mika-dot/Test-task/tree/main/test%20task%203%20(4%20semestor))
 
 #### Exercise 1
 <p align="center">
