@@ -54,11 +54,11 @@ app.post("/download", urlencodedParser, function (request, response) {
     }
 
     if((!request.body.userName) || (!request.body.userDate) || (!request.body.userNamber)){
-        console.log("число не цифра");     
+        console.log("Не хватает данных");     
     let json = {
         stattus: 'error',
         stattusnamber: '3.2',
-        message: "Невирный тип данных, пустой"
+        message: "Не хватает данных"
     };
     response.end(JSON.stringify(json));
     return response.sendStatus(400);
