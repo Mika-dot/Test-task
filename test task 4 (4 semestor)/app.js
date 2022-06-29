@@ -110,6 +110,6 @@ app.put("/api/users", jsonParser, function (req, res) {
 
 });
 
-app.listen(3000, function () {
+app.listen(5500, function () {
     console.log("Сервер ожидает подключения...");
 });
