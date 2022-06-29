@@ -27,5 +27,11 @@ The task is located in its folder "Test task 2" below is a link to view and a pi
   <img src="https://github.com/Mika-dot/Test-task/blob/main/img/1.PNG?raw=true" alt="Exercise 1"/>
 </p>
 
+---
+#### Exercise 1
+<p align="center">
+  <img src="https://github.com/Mika-dot/Test-task/blob/main/img/3.1.png?raw=true" alt="Exercise 1"/>
+</p>
+
 
 
